@@ -1,7 +1,0 @@
-{
-  "name": "BOK AI LAB",
-  "description": "A cutting-edge AI Research Lab website featuring research areas, publications, team members, and an integrated Gemini-powered research assistant.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
